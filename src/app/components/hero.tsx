@@ -3,6 +3,7 @@ import Link from "next/link"
 
 
 
+
 const Hero = () => {
   return (
     <div>
@@ -15,9 +16,9 @@ const Hero = () => {
            MARYAM KHAN
           </h1>
             <div className="w-[400px] h-[2px] bg-gray-500"></div>
-            <p className="mb-8 leading-relaxed">
+            <p className="mb-4 leading-relaxed">
           
-I am a clinical psychologist and homeopath, combining holistic, evidence-based approaches to mental health and wellness, with expertise in traditional therapies and homeopathy to support physical and emotional well-being. In addition to my work in healthcare, I am exploring the potential of AI technologies and web development, specializing in HTML, CSS, JavaScript, TypeScript, and Next.js to create innovative solutions that enhance user experiences and accessibility.
+              I am a clinical psychologist and homeopath, combining holistic, evidence-based approaches to mental health and wellness, with expertise in traditional therapies and homeopathy to support physical and emotional well-being. In addition to my work in healthcare, I am exploring the potential of AI technologies and web development, specializing in HTML, CSS, JavaScript, TypeScript, and Next.js to create innovative solutions that enhance user experiences and accessibility.
             </p>
             <div className="flex justify-center">
               <Link href={"#contact"}>
