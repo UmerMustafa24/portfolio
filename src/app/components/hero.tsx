@@ -10,13 +10,14 @@ const Hero = () => {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              I am
+              I AM 
               <br className="hidden lg:inline-block" />
               MARYAM KHAN
             </h1>
             <div className="w-[400px] h-[2px] bg-gray-500"></div>
             <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla quaerat nesciunt error harum rem vero maxime obcaecati? Inventore fugiat voluptate vel nisi, sint sunt, consectetur assumenda dolorum odio culpa doloremque!
+          
+I am a clinical psychologist and homeopath, combining holistic, evidence-based approaches to mental health and wellness, with expertise in traditional therapies and homeopathy to support physical and emotional well-being. In addition to my work in healthcare, I am exploring the potential of AI technologies and web development, specializing in HTML, CSS, JavaScript, TypeScript, and Next.js to create innovative solutions that enhance user experiences and accessibility.
             </p>
             <div className="flex justify-center">
               <Link href={"#contact"}>
