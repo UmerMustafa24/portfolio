@@ -77,7 +77,7 @@ const Contact = () => {
                 </button>
               </div>
               <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a className="text-indigo-500">maryamkhanhom@email.com</a>
+                <a className="text-indigo-500">umarmustafawork2010@email.com</a>
                 <p className="leading-normal my-5">
                   social media platforms.
                   <br />

@@ -7,7 +7,7 @@ const Navbar = () => {
       <header className="text-gray-600 body-font">
   <div className="container mx-auto flex flex-wrap p-2 flex-col md:flex-row items-center">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-      <img src="portfolio logo.jpg" alt="MARYAM KHAN" width={200} height={200} className='w-[50px]'/>
+      <img src="my logo.png" alt="MARYAM KHAN" width={200} height={200} className='w-[50px]'/>
       <span className="ml-3 text-xl">MY PORTFOLIO</span>
     </a>
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">

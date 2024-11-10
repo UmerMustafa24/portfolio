@@ -13,12 +13,12 @@ const Hero = () => {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
             I&apos;m
            <br className="hidden lg:inline-block" />
-           MARYAM KHAN
+           UMAR MUSTAFA
           </h1>
             <div className="w-[400px] h-[2px] bg-gray-500"></div>
             <p className="mb-4 leading-relaxed">
           
-              I am a clinical psychologist and homeopath, combining holistic, evidence-based approaches to mental health and wellness, with expertise in traditional therapies and homeopathy to support physical and emotional well-being. In addition to my work in healthcare, I am exploring the potential of AI technologies and web development, specializing in HTML, CSS, JavaScript, TypeScript, and Next.js to create innovative solutions that enhance user experiences and accessibility.
+             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum beatae excepturi autem, animi nemo corporis architecto. Nam labore aspernatur, distinctio quos hic quod a, optio corporis, delectus doloribus provident! Omnis.
             </p>
             <div className="flex justify-center">
               <Link href={"#contact"}>
@@ -34,7 +34,7 @@ const Hero = () => {
               alt="hero"
               width={300}
               height={300}
-              src="circle-grey.jpg"
+              src="my image.jfif"
             />
           </div>
         </div>
