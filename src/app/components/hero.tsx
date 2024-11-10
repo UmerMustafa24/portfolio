@@ -1,5 +1,5 @@
-import React from 'react'
-import Link from 'next/link'
+import React from "react"
+import Link from "next/link"
 
 
 
@@ -14,7 +14,7 @@ const Hero = () => {
               <br className="hidden lg:inline-block" />
               MARYAM KHAN
             </h1>
-            <div className='w-[400px] h-[2px] bg-gray-500'></div>
+            <div className="w-[400px] h-[2px] bg-gray-500"></div>
             <p className="mb-8 leading-relaxed">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla quaerat nesciunt error harum rem vero maxime obcaecati? Inventore fugiat voluptate vel nisi, sint sunt, consectetur assumenda dolorum odio culpa doloremque!
             </p>
